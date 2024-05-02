@@ -1,0 +1,2 @@
+external load balancer: loadbalancer-0-443572844.eu-west-1.elb.amazonaws.com
+internal load balancer:internal-loadbalancer-1-600447046.eu-west-1.elb.amazonaws.com
